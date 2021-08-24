@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/joaopcosta-jp">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaopcosta-jp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcosta-jp&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaopcosta-jp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcosta-jp&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   <div style="display: inline_block"><br>
