@@ -1,4 +1,4 @@
-## Olá!
+## "Hello, Friend."
 
 <div>
   <a href="https://github.com/joaopcosta-jp">
@@ -11,6 +11,8 @@
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-C" height="30" width="40" src="https://svgshare.com/i/_Uq.svg">
+  <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    
 </div>
   
   ##
